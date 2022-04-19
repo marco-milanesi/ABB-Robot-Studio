@@ -1,31 +1,54 @@
-# ABB-Robot-Studio
+
+# ABB Robot Studio
 Automation of a manufacturing process mechanics of two automotive parts. Designing and drawing of the customized gripper for this solution.
 
-> Accelerated video to show the entire process.
+<br>
+
+<div align = center>
+
 ![Showcase]
 
-## Robotic cell implementation
+*Accelerated animation showing the entire process*
+
+
+<br>
+
+## Implementation
+
 ![Overview]
 
-| Raw pieces enslavement | Pieces Output via pallet |
-|:----:|:-----:|
-| ![Conveyor] | ![Pallet] |
+<br>
+
+### Transportation
+
+ *Arrival of New Parts* | *Dispensing of Finished Parts onto Pallet*
+:----------------------:|:------------------------------------------:
+       ![Conveyor]      |                 ![Pallet]
 
 
-| Workpiece Clamping XSR202 |  Workpiece Clamping  XSR201 |
-|:----:|:-----:|
-| ![Clamp 201] | ![Clamp 202] |
+<br>
 
+### Workpiece Clamping
 
-| Robot Path XSR202 |  Robot Path XSR201 |
-|:----:|:-----:|
-| ![Path 201] | ![Path 202] |
+   XSR201    |    XSR202
+:-----------:|:-------------:
+ ![Clamp 201] | ![Clamp 202]
+
+<br>
+
+### Robot Path
+
+   XSR201    |    XSR202
+:-----------:|:------------:
+ ![Path 201] | ![Path 202]
 
 ## Team
 
 | <a href="https://marcomilanesi.com/" target="_blank">**Marco Milanesi**</a> | <a href="https://github.com/EdoGitMira" target="_blank">**Edoardo Mirandola**</a> |
 | :---: |:---:|
 | <a href="https://github.com/marco-milanesi" target="_blank">`github.com/marco-milanesi`</a> | <a href="https://github.com/EdoGitMira" target="_blank">`github.com/EdoGitMira`</a> |
+
+</div>
 
 <!----------------------------------------------------------------------------->
 
