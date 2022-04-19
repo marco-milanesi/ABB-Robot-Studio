@@ -12,21 +12,26 @@
 <br>
 
 
-## Team
+### Team
   
 [![Badge Marco]][Marco] 
 [![Badge Edoardo]][Edoardo]
 
 <br>
+<br>
 
 ## Showcase
 
+<br>
+       
 ![Showcase]
 
 *Accelerated animation showing the entire process*
 
 
 <br>
+<br>
+
 
 ## Implementation
 
@@ -36,26 +41,26 @@
 
 ### Transportation
 
- *Arrival of New Parts* | *Dispensing of Finished Parts onto Pallet*
-:----------------------:|:------------------------------------------:
-       ![Conveyor]      |                 ![Pallet]
+| *Arrival of New Parts* | *Dispensing of Finished Parts onto Pallet*
+|:----------------------:|:------------------------------------------:
+|       ![Conveyor]      |                 ![Pallet]
 
 
 <br>
 
 ### Workpiece Clamping
 
-   XSR201    |    XSR202
-:-----------:|:-------------:
- ![Clamp 201] | ![Clamp 202]
+|    XSR201    |    XSR202
+|:------------:|:-------------:
+| ![Clamp 201] | ![Clamp 202]
 
 <br>
 
 ### Robot Path
 
-   XSR201    |    XSR202
-:-----------:|:------------:
- ![Path 201] | ![Path 202]
+|   XSR201    |    XSR202
+|:-----------:|:------------:
+| ![Path 201] | ![Path 202]
 
 </div>
 
