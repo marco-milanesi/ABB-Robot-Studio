@@ -29,11 +29,13 @@ Automation of a manufacturing process mechanics of two automotive parts. Designi
 
 <!----------------------------------------------------------------------------->
 
-[Overview]: README_images/Robot%20cell.png
-[Showcase]: README_images/gif.gif
-[Conveyor]: README_images/Conveyor.png
-[Pallet]: README_images/Pallet.png
-[Clamp 201]: README_images/zoom_XRS201.JPG
-[Clamp 202]: README_images/zomm_XRS202.JPG
-[Path 201]: README_images/PATH2.png
-[Path 202]: README_images/PATH1.png
+[Overview]: Resources/Overview.png
+[Showcase]: Resources/Showcase.gif
+[Conveyor]: Resources/Conveyor.png
+[Pallet]: Resources/Pallet.png
+
+[Clamp 201]: Resources/XSR201/Clamp.JPG
+[Path 201]: Resources/XSR201/Path.png
+
+[Clamp 202]: Resources/XSR202/Clamp.JPG
+[Path 202]: Resources/XSR202/Path.png
