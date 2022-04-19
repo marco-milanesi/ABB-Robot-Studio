@@ -6,6 +6,15 @@ Automation of a manufacturing process mechanics of two automotive parts. Designi
 
 <div align = center>
 
+## Team
+  
+[![Badge Marco]][Marco] 
+[![Badge Edoardo]][Edoardo]
+
+<br>
+
+## Showcase
+
 ![Showcase]
 
 *Accelerated animation showing the entire process*
@@ -42,15 +51,16 @@ Automation of a manufacturing process mechanics of two automotive parts. Designi
 :-----------:|:------------:
  ![Path 201] | ![Path 202]
 
-## Team
-
-| <a href="https://marcomilanesi.com/" target="_blank">**Marco Milanesi**</a> | <a href="https://github.com/EdoGitMira" target="_blank">**Edoardo Mirandola**</a> |
-| :---: |:---:|
-| <a href="https://github.com/marco-milanesi" target="_blank">`github.com/marco-milanesi`</a> | <a href="https://github.com/EdoGitMira" target="_blank">`github.com/EdoGitMira`</a> |
-
 </div>
 
+
 <!----------------------------------------------------------------------------->
+
+[Edoardo]: https://github.com/EdoGitMira
+[Marco]: https://github.com/marco-milanesi
+
+
+<!----------------------------------{ Images }--------------------------------->
 
 [Overview]: Resources/Overview.png
 [Showcase]: Resources/Showcase.gif
@@ -62,3 +72,10 @@ Automation of a manufacturing process mechanics of two automotive parts. Designi
 
 [Clamp 202]: Resources/XSR202/Clamp.JPG
 [Path 202]: Resources/XSR202/Path.png
+
+<!---------------------------------{ Badges }---------------------------------->
+
+[Badge Marco]: https://img.shields.io/badge/Marco_Milanesi-4776c1?style=for-the-badge
+[Badge Edoardo]: https://img.shields.io/badge/Edoardo_Mirandola-8a61c7?style=for-the-badge
+
+
