@@ -1,10 +1,14 @@
 
+<div align = center>
+
+
 # ABB Robot Studio
-Automation of a manufacturing process mechanics of two automotive parts. Designing and drawing of the customized gripper for this solution.
+
+*Automation of a two parts automotive manufacturing process* <br>
+*Designing / drawing of customized grippers*
 
 <br>
 
-<div align = center>
 
 ## Team
   
