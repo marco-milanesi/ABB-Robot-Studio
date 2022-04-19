@@ -1,4 +1,6 @@
 
+[![Badge License]][License]
+
 <div align = center>
 
 
@@ -63,6 +65,7 @@
 [Edoardo]: https://github.com/EdoGitMira
 [Marco]: https://github.com/marco-milanesi
 
+[License]: LICENSE
 
 <!----------------------------------{ Images }--------------------------------->
 
@@ -79,7 +82,9 @@
 
 <!---------------------------------{ Badges }---------------------------------->
 
-[Badge Marco]: https://img.shields.io/badge/Marco_Milanesi-4776c1?style=for-the-badge
+[Badge License]: https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge
+
 [Badge Edoardo]: https://img.shields.io/badge/Edoardo_Mirandola-8a61c7?style=for-the-badge
+[Badge Marco]: https://img.shields.io/badge/Marco_Milanesi-4776c1?style=for-the-badge
 
 
